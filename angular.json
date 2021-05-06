@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "day4lab1"
+    }
+  },
+  "defaultProject": "day4lab1",
+  "cli": {
+    "analytics": "bc8a0307-e0e1-4da2-a8cf-82f33066cde8"
+  }
 }
